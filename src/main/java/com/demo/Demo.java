@@ -27,6 +27,7 @@ public class Demo {
 		System.out.println(vowels);
 
 		System.out.println(cons);
+		System.out.println("new code ");
 
 	}
 }
